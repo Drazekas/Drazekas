@@ -1,4 +1,4 @@
-# Hello! <img src="https://github.com/Drazekas/Drazekas/blob/main/hello_wave.gif" width="10px">
+# Hello! <!-- <img src="https://github.com/Drazekas/Drazekas/blob/main/hello_wave.gif" width="30px"> -->
 
 My name is Dawid Drążewski and I'm a software developer/Data analyst from Poland.
 I love creating new solutions and saving people's time by providing them with automation.
